@@ -70,7 +70,7 @@ This interactive Power BI dashboard is built to analyze retail sales performance
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](.dashbord.png)
+![Dashboard Screenshot](dashbord.png)
 
 ---
 
