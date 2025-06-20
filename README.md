@@ -87,4 +87,4 @@ This interactive Power BI dashboard is built to analyze retail sales performance
 **Soumo Mondal**  
 Data Analyst | Business Insights Enthusiast  
 📧 msoumodwip@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/soumodwip-mondal-805243298)
+🔗 [LinkedIn](https://www.linkedin.com/in/soumodwip-mondal-805243298)
